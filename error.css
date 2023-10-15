@@ -1,0 +1,444 @@
+.summer-sale-for6 {
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+  width: 474px;
+  height: 18px;
+  flex-shrink: 0;
+}
+.shopnow6 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 24px;
+  font-weight: 600;
+  text-align: center;
+}
+.summer-sale-for-all-swim-suits-parent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.english6 {
+  position: relative;
+  line-height: 21px;
+}
+.dropdown-icon6 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.english-parent4,
+.frame-parent58 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-8xs);
+}
+.frame-parent58 {
+  position: absolute;
+  top: 12px;
+  right: 136px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-212xl);
+}
+.exclusive12,
+.top-header6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.top-header6 {
+  background-color: var(--button);
+  width: 1440px;
+  height: 48px;
+  overflow: hidden;
+  color: var(--text);
+}
+.exclusive12 {
+  letter-spacing: 0.03em;
+  line-height: 24px;
+}
+.logo12 {
+  position: relative;
+  width: 118px;
+  height: 24px;
+}
+.home6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+}
+.header31,
+.header32,
+.header34 {
+  position: relative;
+  width: 48px;
+  height: 24px;
+}
+.header32,
+.header34 {
+  width: 66px;
+}
+.header34 {
+  width: 61px;
+}
+.header-parent4,
+.logo-parent10 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header-parent4 {
+  gap: var(--gap-29xl);
+  text-align: center;
+  font-size: var(--title-16px-regular-size);
+  font-family: var(--title-12px-medium);
+}
+.logo-parent10 {
+  gap: var(--gap-141xl);
+}
+.what-are-you6 {
+  position: relative;
+  line-height: 18px;
+  opacity: 0.5;
+}
+.what-are-you-looking-for-parent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-15xl);
+}
+.search-component-set6 {
+  border-radius: var(--br-9xs);
+  background-color: var(--secondary);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) var(--padding-xs) var(--padding-6xs)
+    var(--padding-xl);
+}
+.wishlist-icon4 {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.cart1-with-buy6,
+.wishlist-icon4 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.header30,
+.search-component-set-parent4,
+.wishlist-parent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.header30,
+.search-component-set-parent4 {
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  font-size: var(--title-12px-medium-size);
+  font-family: var(--title-12px-medium);
+}
+.header30 {
+  position: absolute;
+  top: 88px;
+  left: 135px;
+  gap: var(--gap-111xl);
+  font-size: var(--heading-24px-bold-size);
+  font-family: var(--heading-24px-bold);
+}
+.error-child {
+  position: absolute;
+  top: 142px;
+  left: 0;
+  width: 1440px;
+  height: 0.5px;
+}
+.account13 {
+  position: relative;
+  line-height: 21px;
+  opacity: 0.5;
+}
+.roadmap-child21 {
+  position: relative;
+  width: 6.89px;
+  height: 12.2px;
+}
+.nothing25,
+.roadmap-child22 {
+  position: relative;
+  display: none;
+}
+.roadmap-child22 {
+  width: 13.19px;
+  height: 0;
+}
+.nothing25 {
+  line-height: 21px;
+}
+.roadmap6 {
+  position: absolute;
+  top: 222px;
+  left: 135px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.not-found {
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 115px;
+  font-weight: 500;
+}
+.your-visited-page {
+  position: relative;
+  font-size: var(--title-16px-regular-size);
+  line-height: 24px;
+  font-family: var(--title-12px-medium);
+}
+.not-found-parent {
+  position: absolute;
+  top: 383px;
+  left: 306px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  font-size: var(--heading-110px-medium-size);
+  font-family: var(--heading-24px-bold);
+}
+.view-all-products8 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.button9 {
+  position: absolute;
+  top: 642px;
+  left: 572px;
+  border-radius: var(--br-9xs);
+  background-color: var(--secondary-2);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-29xl);
+  font-size: var(--title-16px-regular-size);
+  color: var(--text);
+}
+.underline-icon15 {
+  position: relative;
+  width: 1440px;
+  height: 1px;
+  opacity: 0.5;
+}
+.icon-copyright6 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.copyright-rimel-20226 {
+  position: relative;
+  line-height: 24px;
+}
+.frame-wrapper6,
+.icon-copyright-parent4,
+.underline-parent5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.icon-copyright-parent4 {
+  gap: var(--gap-7xs);
+}
+.frame-wrapper6,
+.underline-parent5 {
+  opacity: 0.6;
+}
+.underline-parent5 {
+  position: absolute;
+  top: 376px;
+  left: 0;
+  flex-direction: column;
+  gap: var(--gap-base);
+  opacity: 0.4;
+}
+.subscribe6 {
+  position: relative;
+  font-size: var(--title-20px-medium-size);
+  line-height: 28px;
+  font-weight: 500;
+  font-family: var(--title-12px-medium);
+}
+.frame-parent61 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.enter-your-email6 {
+  position: relative;
+  line-height: 24px;
+  opacity: 0.4;
+}
+.frame-parent60,
+.send-mail6 {
+  display: flex;
+  justify-content: flex-start;
+}
+.send-mail6 {
+  border-radius: var(--br-9xs);
+  border: 1.5px solid var(--text);
+  box-sizing: border-box;
+  width: 217px;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-xs) 0 var(--padding-xs) var(--padding-base);
+  gap: var(--gap-13xl);
+  font-size: var(--title-16px-regular-size);
+  font-family: var(--title-12px-medium);
+}
+.frame-parent60 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-base);
+  font-size: var(--heading-24px-bold-size);
+  font-family: var(--heading-24px-bold);
+}
+.support6 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 500;
+}
+.bijoy-sarani-dhaka6 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  width: 175px;
+}
+.bijoy-sarani-dhaka-dh-1515-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  font-size: var(--title-16px-regular-size);
+}
+.save-3-with6 {
+  position: relative;
+  line-height: 18px;
+  font-weight: 500;
+  opacity: 0.7;
+}
+.qrcode-1-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.googleplay-icon6,
+.qr-code6 {
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.qr-code6 {
+  background-color: var(--button);
+  width: 80px;
+  height: 80px;
+}
+.googleplay-icon6 {
+  width: 110px;
+  height: 40px;
+}
+.download-appstore-icon6 {
+  position: absolute;
+  top: 2.4px;
+  left: 2.4px;
+  border-radius: var(--br-9xs);
+  width: 105.2px;
+  height: 35.2px;
+  object-fit: cover;
+}
+.appstore6 {
+  position: relative;
+  background-color: var(--button);
+  width: 110px;
+  height: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.googleplay-parent4,
+.save-3-with-app-new-user-only-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.save-3-with-app-new-user-only-parent4 {
+  gap: var(--gap-5xs);
+  font-size: var(--title-12px-medium-size);
+}
+.frame-parent59,
+.icon-facebook-parent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.frame-parent59 {
+  position: absolute;
+  top: 80px;
+  left: 135px;
+  justify-content: center;
+  gap: var(--gap-68xl);
+  font-size: var(--title-20px-medium-size);
+  color: var(--text);
+}
+.footer6 {
+  position: absolute;
+  top: 838px;
+  left: 0;
+  background-color: var(--button);
+  width: 1440px;
+  height: 440px;
+  overflow: hidden;
+  font-size: var(--title-16px-regular-size);
+  color: var(--primary);
+}
+.error {
+  position: relative;
+  background-color: var(--primary);
+  width: 100%;
+  height: 1278px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--title-14px-semibold-size);
+  color: var(--button);
+  font-family: var(--title-12px-medium);
+}
